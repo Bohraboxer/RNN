@@ -36,4 +36,4 @@ I used LSTM to predict the polarity of the reviews using different number of LST
   
   1)  1 LSTM layer
   
-  2) 1 LSTM layers
+  2) 2 LSTM layers
